@@ -1,1 +1,1 @@
-# a hotel records database management system, uses python module tkinter for gui.
+# menu driven program for hotel database management system.
